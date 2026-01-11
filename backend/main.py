@@ -22,7 +22,7 @@ app.add_middleware(
         "http://localhost:3000",
         "http://localhost:5173",
         "https://failsense-production.up.railway.app",
-        "https://*.vercel.app",
+        "https://fail-sense-oebrcn3dh-maryus-projects-db28d80b.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
